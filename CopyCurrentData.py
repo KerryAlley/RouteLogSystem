@@ -1,6 +1,7 @@
 #CopyCurrentData.py
 #RouteLogSystem
 #KAlley 2013_07_29 - Present
+#GitHub started 2018_02_08
 """
 This script sync's up the data driving the Route Log System (LocalData.gdb) with the original sources (generally on VTrans SDE servers).
 The names of files in LocalData.gdb are changed to match expected names preserved in the Route Log System template mxd.  Using the filenames
